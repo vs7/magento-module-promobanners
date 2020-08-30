@@ -1,0 +1,5 @@
+app/code/community/VS7/PromoBanners                                 app/code/community/VS7/PromoBanners
+app/design/adminhtml/default/default/layout/vs7_promobanners.xml    app/design/adminhtml/default/default/layout/vs7_promobanners.xml
+app/design/adminhtml/default/default/template/vs7_promobanners      app/design/adminhtml/default/default/template/vs7_promobanners
+app/etc/modules/VS7_PromoBanners.xml                                app/etc/modules/VS7_PromoBanners.xml
+        
